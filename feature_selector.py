@@ -330,6 +330,7 @@ class FeatureSelector():
 
         ax.set_yticks([x + 0.5 for x in list(range(corr_matrix_plot.shape[0]))])
         ax.set_yticklabels(list(corr_matrix_plot.index), size = int(160 / corr_matrix_plot.shape[0]));
+
         ax.set_xticks([x + 0.5 for x in list(range(corr_matrix_plot.shape[1]))])
         ax.set_xticklabels(list(corr_matrix_plot.columns), size = int(160 / corr_matrix_plot.shape[1]));
         plt.title(title, size = 14)
