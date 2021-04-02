@@ -1,6 +1,5 @@
 - ### 综合技术博客
 
-- - 美团：<https://tech.meituan.com/>
   - [大众点评搜索基于知识图谱的深度学习排序实践 - 美团技术团队](https://tech.meituan.com/2019/01/17/dianping-search-deeplearning.html)
   - [基于TensorFlow Serving的深度学习在线预估 - 美团技术团队](https://tech.meituan.com/2018/10/11/tfserving-improve.html)
   - [http://www.huaxiaozhuan.com/](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/9_ctr_prediction1.html)
@@ -25,14 +24,13 @@
 
 - ### 数据库
 
-  [数据库底层原理](http://blog.jobbole.com/100349/)
-
-  图数据库相对关系型数据库的优势：<https://mp.weixin.qq.com/s/C9M57RcXbxDjm8VdIr-rkA>
+  - 图数据库相对关系型数据库的优势：<https://mp.weixin.qq.com/s/C9M57RcXbxDjm8VdIr-rkA
+  - 数据库底层原理 (http://blog.jobbole.com/100349/)
 
 - ### GNN
 
-- - hwwang55 (Hongwei Wang)](https://github.com/hwwang55)
   - [wenqifan03 / GraphRec-WWW19：用于社交推荐的图神经网络，WWW'19](https://github.com/wenqifan03/GraphRec-WWW19)
+  - [hwwang55 (Hongwei Wang)](https://github.com/hwwang55)
   - [PetarV- / GAT：图注意力网络（https://arxiv.org/abs/1710.10903）](https://github.com/PetarV-/GAT)
   - [xiangwang1223 / neural_graph_collaborative_filtering：神经图协作过滤，SIGIR2019](https://github.com/xiangwang1223/neural_graph_collaborative_filtering)
   - [wenqifan03 / GraphRec-WWW19：用于社交推荐的图神经网络，WWW'19](https://github.com/wenqifan03/GraphRec-WWW19)
@@ -59,21 +57,26 @@
 
 - ### 推荐算法
 
-[kaggle_criteo_ctr_challenge-/ctr.ipynb at master · chengstone/kaggle_criteo_ctr_challenge-](https://github.com/chengstone/kaggle_criteo_ctr_challenge-/blob/master/ctr.ipynb)
-
-https://www.cnblogs.com/xianbin7/p/11076009.html)
-
-https://zhuanlan.zhihu.com/p/58160982)
-
-[xDeepFM](https://zhuanlan.zhihu.com/p/57162373)
-
-[腾讯广告算法大赛XDeepFM](https://zhuanlan.zhihu.com/p/154156670)
-
-推荐系统技术演进综述<https://zhuanlan.zhihu.com/p/100019681>
-
-<https://zhuanlan.zhihu.com/p/351078721>
-
-推荐算法不错的综述<https://zhuanlan.zhihu.com/p/336643635>
+  - [kaggle_criteo_ctr_challenge-/ctr.ipynb at master · chengstone/kaggle_criteo_ctr_challenge-](https://github.com/chengstone/kaggle_criteo_ctr_challenge-/blob/master/ctr.ipynb)
+  - https://www.cnblogs.com/xianbin7/p/11076009.html
+  - https://zhuanlan.zhihu.com/p/58160982
+  - [xDeepFM](https://zhuanlan.zhihu.com/p/57162373)
+  - [腾讯广告算法大赛XDeepFM](https://zhuanlan.zhihu.com/p/154156670)
+  - 推荐系统技术演进综述<https://zhuanlan.zhihu.com/p/100019681>https://zhuanlan.zhihu.com/p/351078721
+  - 推荐算法不错的综述<https://zhuanlan.zhihu.com/p/336643635
+  -   [蘑菇街自研服务框架如何提升在线推理效率？](https://mp.weixin.qq.com/s/IzLtn1SR-aFuxXM3GNZbFw)
+  - 贝壳推荐场景的实践，https://mp.weixin.qq.com/s_biz=MzI2ODA3NjcwMw%3D%3D&mid=2247483659&idx=1&sn=deb9c5e22eabd3c52d2418150a40c68a&scene=45#wechat_redirect 
+  - 深度学习排序模型实践，https://tech.meituan.com/2018/03/29/recommend-dnn.html
+  - 优酷个性化推荐，https://developer.aliyun.com/article/443621?scm=20140722.184.2.173
+  - 58同城，https://mp.weixin.qq.com/s/qCpCHueEK7Nja-cPmlCaCg?
+  - 携程，https://zhuanlan.zhihu.com/p/32785759
+  - 向量体系(Embedding)在严选的落地实践，https://mp.weixin.qq.com/s/NJDfrGJgIE2KK_t-yJ-C9Q
+  - 汽车之家推荐系统排序算法迭代之路-视频，https://mp.weixin.qq.com/s/3wAR3evFAeKfsCYJ6WLTHQ
+  - 要提升微信看一看推荐混排的长期收益？试试深度强化学习，https://mp.weixin.qq.com/s/zfVrmErz3ZaGz7Ha7qGoIw
+  - 信息流推荐在凤凰新闻的业务实践，https://mp.weixin.qq.com/s/aCTP4OCGyWxWGrlCFHSYJQ
+  - 阿里飞猪个性化推荐：召回篇，https://mp.weixin.qq.com/s/323D5MFivtrmo3ISwQbpYg
+  - 因果推断在阿里文娱用户增长中的应用，https://mp.weixin.qq.com/s/oZTU7TAEf-gYzlSXdt0_BA
+  - 网易云音乐推荐中的用户行为序列深度建模，https://mp.weixin.qq.com/s/Whf0rmuVapzZAB33TUj1Ig
 
 - ## 特征工程
 
@@ -91,9 +94,28 @@ https://zhuanlan.zhihu.com/p/58160982)
 
 - ## 其他
 
-  <https://stackoverflow.com/questions/35911252/disable-tensorflow-debugging-information>
+  - <https://stackoverflow.com/questions/35911252/disable-tensorflow-debugging-information>
+  - 粗排序介绍，后半篇再介绍阿里自研的一个算法不用看<https://mp.weixin.qq.com/s/CN3a4Zb4yEjgi4mkm2lX6w
 
-  粗排序介绍，后半篇再介绍阿里自研的一个算法，不用看<https://mp.weixin.qq.com/s/CN3a4Zb4yEjgi4mkm2lX6w>
+- ## 部署
+
+  - 线上serving的几种方法：https://zhuanlan.zhihu.com/p/77664408
+  - 爱奇艺线上部署经验，https://zhuanlan.zhihu.com/p/61853955
+
+- ## 知识图谱
+
+  - [图谱百度事件图谱技术与应用 <https://mp.weixin.qq.com/s/A3uqaQcJz0UHpdgKggi_9w
+  - [知识图谱在小米的应用与探索 <https://mp.weixin.qq.com/s/GbZK9U-ePx3zyUjnw8vvUA
+
+  
+
+  >
+
+  
+
+  
+
+  
 
   
 
